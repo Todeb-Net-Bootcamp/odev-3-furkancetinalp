@@ -37,7 +37,7 @@
 5. Veritabanı Diyagramı
 ![Diyagram](https://user-images.githubusercontent.com/99509540/179298222-cdbc74d7-36ac-405e-9d3a-e984ab51332a.png)
 
-6. TODEBComnaniesAndDetails View'inin Çıktısı
+6. TODEBCompaniesAndDetails View'inin Çıktısı
 ![5ViewEkranGoruntusu](https://user-images.githubusercontent.com/99509540/179298338-0dfde471-7b85-4647-8adc-2e49f0801084.png)
 
 7. CompanyDetails Fonksiyonunun Çıktısı
